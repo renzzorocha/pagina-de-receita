@@ -1,4 +1,4 @@
-<h1 align="center"> 📋 Página de Receita </h1>
+<h1 align="center"> 🎂 Página de Receita </h1>
 
 <h2 id=sobre>📜 Sobre</h2>
 
